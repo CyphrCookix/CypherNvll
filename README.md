@@ -32,7 +32,6 @@
   </a>
 </p>
 
-
 <br/>
 
 <h2 align="center">Stats</h2>
