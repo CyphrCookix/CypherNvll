@@ -1,16 +1,16 @@
 <div align="center">
   <!-- <a href="https://website"> -->
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Xx_losergvrl_xX&fontColor=5178bd&animation=blink"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Xx_losergvrl_xX&fontColor=c7d6f2&animation=blink"/>
   </a>
 </div>
 
 <h1 align="center">
     <!-- <a href="https://website"> -->
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=helo+%3A%5D" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4500&pause=1000&center=true&random=true&width=435&lines=helo+%3A%5D" alt="Typing SVG" /></a>
     </a>
 </h1>
 
-<h3 align="center">Developer & </h3>
+<h3 align="center">💻 Developer | 🛡️ Aspiring Ethical Hacker</h3>
 
 <br/>
 
@@ -18,7 +18,7 @@
  
  currently studying **CyberSecurity**
  
- 🌱 currently expanding my knowledge in **ethical hacking, python scripting, bash, window OS and malware analysis**
+ currently expanding my knowledge in **ethical hacking, python scripting, bash, window OS and malware analysis**
 
  ask me about **python, bash, malware, games, computers.. or anything :P**
 
@@ -30,15 +30,6 @@
       <a href="https://github.com/losergvrl?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/losergvrl?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
-<div align="center"> 
-  <a href="mailto:hibaeljirari98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/+212612208400" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
 
  <hr/>
  
