@@ -1,11 +1,9 @@
 <div align="center">
-  <!-- <a href="https://website"> -->
     <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Xx_CypherNvll_xX&fontColor=c7d6f2&animation=blink"/>
   </a>
 </div>
 
 <h1 align="center">
-    <!-- <a href="https://website"> -->
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&center=true&height=72&lines=helo+%3A%5D" alt="Typing SVG" /></a>
 </h1>
 
@@ -15,7 +13,7 @@
 
 <div align="center">
  
- studying **CyberSecurity*
+ studying **CyberSecurity**
 
  </div>
 
@@ -40,7 +38,7 @@
 <h2 align="center">Stats</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CypherNvlll&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CypherNvll&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=CypherNvll&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CypherNvll&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
