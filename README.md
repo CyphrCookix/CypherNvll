@@ -15,9 +15,7 @@
 
 <div align="center">
  
- studying **CyberSecurity**
-
- ask me about **anything :P**
+ studying **CyberSecurity*
 
  </div>
 
