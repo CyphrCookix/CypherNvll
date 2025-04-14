@@ -20,7 +20,7 @@
  <hr/>
  
 <h2 align="center">Languages, Frameworks & Tools</h2>
-<br/>
+
 <h3 align="center">OS and Distros</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,windows" />
